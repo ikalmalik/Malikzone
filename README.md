@@ -4,7 +4,7 @@
 **`Abd. Malik A. Madinu`**
 <br /> _Department of Geophysics and Meteorology, Faculty of Mathematics and Natural Sciences, IPB University_
 <br /> _SSRS Fellow RO11 Dynamic Climate Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University_
-<br /> _SSRS Indonesia Tropic and Ecological Observatory, IPB Sustainable Science Research Students Association (IPB SSRS Association)_
+<br /> _SSRS Indonesia Tropic and Ecological Observatory, IPB Sustainable Science Research Students Association (IPB SSRS Association), SSRS Group_
 
 ## Research Overview 
 Null.....
@@ -592,34 +592,12 @@ print(monthlyAverageScatterChart);
 ### References
 .....
 
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">
-<p>
-<a href="https://ugjssbc/sfugfbjs/"><img src=".....png"/></a>
-</p>
-<p>
-<a href=""https://ugjssbc/sfugfbjs/">Cheat
-Sheet</a>
-</p>
-</td>
-<td style="text-align: center;">
-<p>
-<a href=""https://ugjssbc/sfugfbjs/"><img src=".....png" /></a>
-</p>
-<p>
-<a href=""https://ugjssbc/sfugfbjs/">Website</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ________________________________________________________________________________________________________________________________________________________
 **`Abd. Malik A. Madinu`**
+<br /> _Department of Geophysics and Meteorology, Faculty of Mathematics and Natural Sciences, IPB University_
+<br /> _SSRS Fellow RO11 Dynamic Climate Research Group, IPB Sustainable Science Research Students Association (IPB SSRS Association), IPB University_
+<br /> _SSRS Indonesia Tropic and Ecological Observatory, IPB Sustainable Science Research Students Association (IPB SSRS Association), SSRS Group_
+<br /> malikzone314@gmail.com   abd.malik@apps.ipb.ac.id
+<br /> [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Malikzone314@gmail.com)
