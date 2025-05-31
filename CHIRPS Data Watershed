@@ -13,6 +13,7 @@ Null.....
 Nulll....
 
 ## Script in Google Earth Engine 
+```javascript
 // Memuat data curah hujan harian CHIRPS untuk 2015-2024 dalam ROI
 var chirps = ee.ImageCollection("UCSB-CHG/CHIRPS/DAILY")
               .filterDate('2015-01-01', '2024-12-31')
@@ -588,6 +589,11 @@ var monthlyAverageScatterChart = ui.Chart.feature.byFeature({
   legend: {position: 'bottom'}
 });
 print(monthlyAverageScatterChart);
+
+```
+
+__________________________ 
+_
 
 ### References
 .....
